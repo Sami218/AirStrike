@@ -1,0 +1,6 @@
+target/
+*.war
+.idea/
+*.iml
+Thumbs.db
+*.teavmdbg
