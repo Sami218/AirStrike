@@ -69,8 +69,8 @@ public class TextResources {
 												{"You have bombs and","missiles as your","weapons. The enemy","sea, land and air forces","are trying to stop you."},
 												{"You can choose from ","three skill levels which","affect the amount of","enemies and the ","instensity of enemy "},
 												{"fire. The durability of","enemy helicopters","depends also on the ","chosen skill level.","Good luck!"},
-												{"1/Up: Plane up","4/Down: Plane down","3/Right: Move faster","2/Left: Move slower",""},
-												{"5: Bomb","6: Missile","Soft keys: Pause","",""}};
+												{"Up/W: Plane up","Down/S: Plane down","Right/D: Move faster","Left/A: Move slower",""},
+												{"Space/X: Bomb","Z: Missile","P/Enter: Pause","",""}};
 	public static final String ABOUT_TITLE="About";
 	public static final String[] ABOUT_PAGES={"  Air Strike","  Demo version","  Copyright 2005","  Fun2M Solutions"," "};
 //	public static final String[] ABOUT_PAGES={"  Air Strike","  Version 1.0.0","  Copyright 2005","  Fun2M Solutions"," "};
